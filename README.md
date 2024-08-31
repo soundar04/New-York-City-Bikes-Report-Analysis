@@ -1,6 +1,5 @@
 # New-York-City-Bikes-Report-Analysis
-To help you with the step-by-step procedure for analyzing the New York Citi Bikes data, here’s a structured approach:
-
+Linkedin:[Link](https://www.linkedin.com/posts/soundar-n-4488p_new-york-city-bikes-data-analysis-activity-7235556726618382336-hb-8?utm_source=share&utm_medium=member_desktop)
 ### Step 1: **Data Understanding**
    - **Review Data Structure**: Understand the columns and types of data available. From your document, the dataset includes fields like `Start Time`, `Stop Time`, `Start Station Name`, `End Station Name`, `Bike ID`, `User Type`, `Birth Year`, `Trip Duration`, and more.
    - **Identify Key Metrics**: Focus on metrics such as trip duration, user types, popular stations, and seasonal usage trends.
